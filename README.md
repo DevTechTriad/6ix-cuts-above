@@ -1,4 +1,4 @@
-# Uzair, Sohaib, Umar Project
+# Uzair, Sohaib, Umar
 
 # Getting Started with Create React App
 
